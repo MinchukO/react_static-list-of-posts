@@ -1,0 +1,1 @@
+{"version":3,"sources":["Post.scss","CommentList.scss"],"names":[],"mappings":"AAAA,MACE,aAAgB,CCDlB,UACE,4BAA+B,CAC/B,+BAAkC,CAClC,aAAc","file":"main.30b141ad.chunk.css","sourcesContent":[".text {\n  color: chocolate;\n}\n",".comments {\n  border-top: 2px solid chocolate;\n  border-bottom: 2px solid chocolate;\n  margin: 20px 0;\n}\n"]}
